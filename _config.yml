@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hae Beom Lee"
+title                    : "Ha Yeon Lee"
 title_separator          : "-"
-name                     : &name "Hae Beom Lee"
+name                     : &name "Ha Yeon Lee"
 description              : &description "personal description"
-url                      : https://haebeom-lee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hayeon-lee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "github.com/haebeom-lee"
+repository               : "github.com/hayeon-lee"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hae Beom Lee"
+  name             : "Ha Yeon Lee"
   avatar           : "lee2.png"
   bio              : "Ph.D student at KAIST"
   location         : "Daejeon, Korea"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "haebeom dot lee at kaist dot ac dot kr"
+  email            : "hayeon926 at kaist dot ac dot kr"
   researchgate     :
   uri              :
   bitbucket        :
