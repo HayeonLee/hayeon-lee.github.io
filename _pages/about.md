@@ -7,68 +7,44 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D student at [Machine Learning and Artificial Intelligence (MLAI) lab](https://www.mlai-kaist.com/) in KAIST, under the supervision of [Prof. Sung Ju Hwang](http://www.sungjuhwang.com/). I finished my B.S. degree at UNIST in 2016, and M.S. degree at UNIST in 2018 under the supervision of Prof. Sung Ju Hwang.
+I'm a Ph.D student at [Machine Learning and Artificial Intelligence (MLAI) lab](https://www.mlai-kaist.com/) in KAIST, under the supervision of [Prof. Sung Ju Hwang](http://www.sungjuhwang.com/). I finished my B.S. degree at SKKU in 2016, and M.S. degree at KAIST in 2018.
 
 My research interest includes:
+- Neural architecture search
 - Meta-learning
-- Bayesian deep learning with variational inference
-- Understanding and modeling uncertainty in deep learning
-- Learning with noise and perturbation
- 
-
-## Awards
-- Google AI Focused Research Awards Program, 2018-2019
-- Global Ph.D Fellowship Program, 2019-2021
+- Multi-modal retrieval
  
 
 ## Preprints
 
-- <font size="4">MetaPerturb: Transferable Regularizer for Heterogeneous Tasks and Architectures</font>
-[[paper]](https://arxiv.org/abs/2006.07540) \\
-Jeongun Ryu\*, Jaewoong Shin\*, **Hae Beom Lee\***, Sung Ju Hwang \\
+- <font size="4">HELP: Hardware-Adaptive Efficient Latency Predictor for NAS via Meta-Learning</font>
+[[paper]](https://arxiv.org/abs/2106.08630) \\
+**Hayeon Lee***, Sewoong Lee*, Song Chong, Sung Ju Hwang \\
 (\*: equal contribution) \\
-arXiv, 2020
+arXiv, 2021
 
-- <font size="4">Transductive Few-shot Learning with Meta-Learned Confidence</font>
-[[paper]](https://arxiv.org/pdf/2002.12017.pdf) \\
-Sung Min Kye, **Hae Beom Lee**, Hoirin Kim, Sung Ju Hwang \\
-arXiv, 2020
+- <font size="4">Task-Adaptive Neural Network Retrieval with Meta-Contrastive Learning</font>
+[[paper]](https://arxiv.org/abs/2103.01495) \\
+Wonyong Jeong*, **Hayeon Lee***, Gun Park*, Eunyoung Hyung, Jinheon Baek, Sung Ju Hwang \\
+(\*: equal contribution) \\
+arXiv, 2021
 
-- <font size="4">Adaptive Network Sparsification with Dependent Variational Beta-Bernoulli Dropout</font>
-[[paper]](https://arxiv.org/pdf/1805.10896.pdf) \\
-Juho Lee, Saehoon Kim, Jaehong Yoon, **Hae Beom Lee**, Eunho Yang, Sung Ju Hwang \\
-arXiv, 2018
- 
 
 ## Conference Publications
 
-- <font size="4">Meta Variance Transfer: Learning to Augment from the Others</font>
-Seong Jin Park, Seungju Han, Ji-won Baek, Insoo Kim, Juhwan Song, **Hae Beom Lee**, Jae-Joon Han and Sung Ju Hwang \\
-<span style="color:darkred">**ICML**</span> 2020
+- <font size="4">Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets</font>
+[[paper]](https://openreview.net/forum?id=rkQuFUmUOg3) [[code]](https://github.com/HayeonLee/MetaD2A) \\
+**Hayeon Lee***, Eunyoung Hyung*, Sung Ju Hwang \\
+(\*: equal contribution) \\
+<span style="color:darkred">**ICLR**</span> 2021
 
 - <font size="4">Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks</font>
 [[paper]](https://openreview.net/pdf?id=rkeZIJBYvr) [[code]](https://github.com/haebeom-lee/l2b) \\
-**Hae Beom Lee\***, Hayeon Lee\*, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang \\
+Hae Beom Lee\*, **Hayeon Lee\***, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2020, **Oral Presentation** (48/2594=1.9%)
 
-- <font size="4">Meta Dropout: Learning to Perturb Latent Features for Generalization</font>
-[[paper]](https://openreview.net/pdf?id=BJgd81SYwr) [[code]](https://github.com/haebeom-lee/metadrop) \\
-**Hae Beom Lee**, Taewook Nam, Eunho Yang, Sung Ju Hwang \\
-<span style="color:darkred">**ICLR**</span> 2020
-
-- <font size="4">DropMax: Adaptive Variational Softmax</font>
-[[paper]](https://arxiv.org/pdf/1712.07834.pdf)[[code]](https://github.com/haebeom-lee/dropmax) \\
-**Hae Beom Lee**, Juho Lee, Saehoon Kim, Eunho Yang, Sung Ju Hwang \\
-<span style="color:darkred">**NeurIPS**</span> 2018
-
-- <font size="4">Uncertainty-Aware Attention for Reliable Interpretation and Prediction</font>
-[[paper]](https://arxiv.org/pdf/1805.09653.pdf)[[code]](https://github.com/jayheo/UA) \\
-Jay Heo\*, **Hae Beom Lee\***, Saehoon Kim, Juho Lee, Kwang Joon Kim, Eunho Yang, Sung Ju Hwang \\
+- <font size="4">Learning Spatial Relationships for Cross Modal Retrieval</font>
+**Hayeon Lee***, Wonjun Yoon*, Jinseok Park, Sung Ju Hwang\\
 (\*: equal contribution) \\
-<span style="color:darkred">**NeurIPS**</span> 2018
-
-- <font size="4">Deep Asymmetric Multi-task Feature Learning</font>
-[[paper]](https://arxiv.org/pdf/1708.00260.pdf)[[code]](https://github.com/haebeom-lee/amtfl) \\
-**Hae Beom Lee**, Eunho Yang, Sung Ju Hwang \\
-<span style="color:darkred">**ICML**</span> 2018
+<span style="color:darkred">**CKAIA**</span> 2020
