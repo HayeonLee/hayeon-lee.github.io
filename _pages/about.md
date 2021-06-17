@@ -57,7 +57,7 @@ Hae Beom Lee\*, <span style="color:#00008b">**Hayeon Lee\***</span>, Donghyun Na
 - ICLR Kyunghyun Cho Travel Grant (2020)
 
 ## Invited Talks
-- <font size="4">"Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets"</font> \\
+- <font size="4">"Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets"</font> 
   - @ Samsung Electronics DS DIT Center, Korea, April 2021
 
 
@@ -71,9 +71,7 @@ Hae Beom Lee\*, <span style="color:#00008b">**Hayeon Lee\***</span>, Donghyun Na
 
 ## Work Experiences
 - Research Intern, Aitrics, Korea, 2021
-
 - Research Intern, Electronics and communications (ETRI), Korea, 2015
-
 - Developer Intern, Samsung Electronics, IT&Mobile Department, Korea, 2015
 
 
