@@ -19,13 +19,13 @@ My research interest includes:
 
 - <font size="4">HELP: Hardware-Adaptive Efficient Latency Predictor for NAS via Meta-Learning</font>
 [[paper]](https://arxiv.org/abs/2106.08630) \\
-**Hayeon Lee***, Sewoong Lee*, Song Chong, Sung Ju Hwang \\
+<span style="color:#00008b">**_Hayeon Lee\*_**</span>, Sewoong Lee\*, Song Chong, Sung Ju Hwang \\
 (\*: equal contribution) \\
 arXiv, 2021
 
 - <font size="4">Task-Adaptive Neural Network Retrieval with Meta-Contrastive Learning</font>
 [[paper]](https://arxiv.org/abs/2103.01495) \\
-Wonyong Jeong*, **Hayeon Lee***, Gun Park*, Eunyoung Hyung, Jinheon Baek, Sung Ju Hwang \\
+Wonyong Jeong\*, <span style="color:#00008b">**_Hayeon Lee\*_**</span>, Gun Park\*, Eunyoung Hyung, Jinheon Baek, Sung Ju Hwang \\
 (\*: equal contribution) \\
 arXiv, 2021
 
@@ -34,17 +34,17 @@ arXiv, 2021
 
 - <font size="4">Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets</font>
 [[paper]](https://openreview.net/forum?id=rkQuFUmUOg3) [[code]](https://github.com/HayeonLee/MetaD2A) \\
-**Hayeon Lee***, Eunyoung Hyung*, Sung Ju Hwang \\
+<span style="color:#00008b">**_Hayeon Lee\*_**</span>, Eunyoung Hyung\*, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2021
 
 - <font size="4">Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks</font>
 [[paper]](https://openreview.net/pdf?id=rkeZIJBYvr) [[code]](https://github.com/haebeom-lee/l2b) \\
-Hae Beom Lee\*, **Hayeon Lee\***, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang \\
+Hae Beom Lee\*, <span style="color:#00008b">**_Hayeon Lee\*_**</span>, Donghyun Na\*, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang \\
 (\*: equal contribution) \\
 <span style="color:darkred">**ICLR**</span> 2020, **Oral Presentation** (48/2594=1.9%)
 
 - <font size="4">Learning Spatial Relationships for Cross Modal Retrieval</font>
-**Hayeon Lee***, Wonjun Yoon*, Jinseok Park, Sung Ju Hwang\\
+<span style="color:#00008b">**_Hayeon Lee\*_**</span>, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang\\
 (\*: equal contribution) \\
 <span style="color:darkred">**CKAIA**</span> 2020
