@@ -48,3 +48,35 @@ Hae Beom Lee\*, <span style="color:#00008b">**_Hayeon Lee\*_**</span>, Donghyun 
 <span style="color:#00008b">**_Hayeon Lee\*_**</span>, Wonjun Yoon\*, Jinseok Park, Sung Ju Hwang\\
 (\*: equal contribution) \\
 <span style="color:darkred">**CKAIA**</span> 2020
+
+
+## Awards & Honors
+
+- ICML Top Reviewer (2020)
+- NAVER Ph.D. Fellowship Award (2020)
+- ICLR Kyunghyun Cho Travel Grant (2020)
+
+## Invited Talks
+- "Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets"
+Samsung Electronics DS DIT Center, Korea, April 2021
+
+
+## Academic Services
+- ICML 2020, 2021 (expert)
+- NeurIPS 2020, 2021
+- ACML 2020
+- AAAI 2021
+- ICLR 2021
+
+
+## Work Experiences
+- Research Intern, Aitrics 
+2021. Seoul, Korea
+
+- Research Intern, ETRI (Electronics and communications)
+2023. Multimedia Processor Lab, Daejeon, Korea
+
+- Developer Intern, Samsung Electronics 
+2015. IT&Mobile Department, Seoul, Korea
+
+
